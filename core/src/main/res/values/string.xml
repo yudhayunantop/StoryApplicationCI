@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApplication</string>
+    <string name="title_login">Form Login</string>
+    <string name="title_regis">Form Register</string>
+    <string name="title">Know our story with \nDicoding Indonesia</string>
+    <string name="email">dummy@email.com</string>
+    <string name="password">Password</string>
+    <string name="name">dummy</string>
+    <string name="desc">desc</string>
+    <string name="description">Description</string>
+    <string name="upload">UPLOAD</string>
+    <string name="desc_img">image user</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="txt_register">Does not have account?\nRegister!</string>
+    <string name="logout">Logout</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Story by Maps</string>
+</resources>

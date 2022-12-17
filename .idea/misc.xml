@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/drawable/bg_button.xml" value="0.1085" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/drawable/bg_button_disable.xml" value="0.1085" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.1085" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/activity_add.xml" value="0.21818181345285476" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/activity_detail.xml" value="0.11999999739907011" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/activity_login.xml" value="0.21818181345285476" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/activity_main.xml" value="0.2727272668160684" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/activity_register.xml" value="0.2727272668160684" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/item_story.xml" value="0.2727272668160684" />
+        <entry key="..\:/Users/cio/AndroidStudioProjects/StoryApplication/app/src/main/res/menu/options_menu.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/yudha/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/activity_detail.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/yudha/AndroidStudioProjects/StoryApplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
